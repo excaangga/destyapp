@@ -1,3 +1,3 @@
 # Desty API for Webhook
-APP_USERNAME = user
-APP_PASSWORD = 1234
+### APP_USERNAME = user
+### APP_PASSWORD = 1234
